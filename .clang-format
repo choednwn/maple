@@ -1,0 +1,13 @@
+BasedOnStyle: Chromium
+AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: Empty
+PointerAlignment: Right
+AlignArrayOfStructures: Right
+IndentCaseLabels: true
+SortIncludes: CaseSensitive
+IncludeBlocks: Preserve
+IndentWidth: 4
+NamespaceIndentation: All
+ObjCBlockIndentWidth: 4
+ReflowComments: false
+ColumnLimit: 100
